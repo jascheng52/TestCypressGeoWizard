@@ -1,0 +1,22 @@
+{
+  "name": "herokucypressappexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alextoul/herokucypressappexample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alextoul/herokucypressappexample/issues"
+  },
+  "homepage": "https://github.com/alextoul/herokucypressappexample#readme",
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  }
+}
