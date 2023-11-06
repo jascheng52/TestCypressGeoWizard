@@ -1,3 +1,7 @@
 ## Instructions
 
-See [https://medium.com/@alextoul/setting-up-cypress-e2e-testing-in-your-continuous-integration-workflow-on-heroku-with-github-ec823540be14](https://medium.com/@alextoul/setting-up-cypress-e2e-testing-in-your-continuous-integration-workflow-on-heroku-with-github-ec823540be14)
+Cypress needs to be ran separately on heroku
+
+#CREDITS
+https://medium.com/@alextoul/setting-cypress-e2e-testing-on-heroku-in-10-minutes-ec823540be14
+https://github.com/alextoul/herokucypressappexample
